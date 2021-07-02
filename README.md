@@ -1,7 +1,7 @@
 # Micael de Oliveira 😁
 
 ### Olá 🖐 Bem vindo ao meu perfil
-- Dev FrontEnd em construção 🚀
+- Dev FrontEnd e Designer UI e UX em construção 🚀
 - Apaixonado por Soluções de Problemas ❤🤯
 - Amo Design ❤🖥
 
