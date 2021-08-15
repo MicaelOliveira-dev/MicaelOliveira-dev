@@ -1,5 +1,3 @@
-# Micael de Oliveira 😁
-
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
 Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios. Atualmente estou estudando JavaScript e tenho como objetivo me tornar um Desenvolvedor Backend
