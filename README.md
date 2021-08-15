@@ -2,11 +2,10 @@
 
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios, Design e Frontend. Atualmente estou estudando Css Grid e tenho como objetivo me tornar um Desenvolvedor Frontend e Designer UI e Ux
+Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios e Soluções. Atualmente estou estudando JavaScript e tenho como objetivo me tornar um Desenvolvedor Backend
 
 - Dev Backend em construção 🚀
 - Apaixonado por Soluções de Problemas ❤🤯
-- Amo Design ❤️
 
 ### Onde me Encontrar 📌
 [![LinkedIn Badge](https://img.shields.io/badge/-MicaelOliveira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MicaelOliveira)](https://www.linkedin.com/in/micaeloliveira-ms)
