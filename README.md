@@ -2,7 +2,7 @@
 
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios e Soluções. Atualmente estou estudando JavaScript e tenho como objetivo me tornar um Desenvolvedor Backend
+Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios. Atualmente estou estudando JavaScript e tenho como objetivo me tornar um Desenvolvedor Backend
 
 - Dev Backend em construção 🚀
 - Apaixonado por Soluções de Problemas ❤🤯
