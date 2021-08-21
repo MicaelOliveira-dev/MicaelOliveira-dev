@@ -1,8 +1,8 @@
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios, Design e Frontend. Atualmente estou estudando Design UI e tenho como objetivo me tornar um desenvolvedor frontend.
+Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios. Atualmente estou estudando JavaScript e tenho como objetivo me tornar um desenvolvedor Backend.
 
-- Amo Desgin ❤️
+- Amo Desafio ❤️
 - Apaixonado por Desafios ❤🤯
 
 ### Onde me Encontrar 📌
