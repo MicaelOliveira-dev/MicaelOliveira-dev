@@ -2,7 +2,6 @@
 ## Quem Sou eu 🧔🏻 
 Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios. Atualmente estou estudando JavaScript e tenho como objetivo me tornar um desenvolvedor Backend.
 
-- Amo Desafio ❤️
 - Apaixonado por Desafios ❤🤯
 
 ### Onde me Encontrar 📌
