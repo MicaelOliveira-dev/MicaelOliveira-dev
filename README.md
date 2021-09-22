@@ -1,8 +1,11 @@
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios. Atualmente estou estudando JavaScript e tenho como objetivo me tornar um desenvolvedor Backend.
-
+Meu nome é Micael Oliveira, atualmente estou Cursando Análise e Desenvolvimento de Sistemas e estudando algumas tecnologias como autodidata
 - Apaixonado por Desafios ❤🤯
+- Autodidata
+- Comunicativo
+- Facilidade em Fazer novas Amizades
+- Apaixonado por Tecnologia
 
 ### Onde me Encontrar 📌
 [![LinkedIn Badge](https://img.shields.io/badge/-MicaelOliveira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MicaelOliveira)](https://www.linkedin.com/in/micaeloliveira-ms)
