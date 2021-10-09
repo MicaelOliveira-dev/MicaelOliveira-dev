@@ -1,6 +1,6 @@
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, atualmente estou Cursando Análise e Desenvolvimento de Sistemas e estudando algumas tecnologias como autodidata
+Meu nome é Micael Oliveira, atualmente estou estudando para me tornar um profissional backend.
 - Apaixonado por Desafios ❤🤯
 - Autodidata
 - Comunicativo
