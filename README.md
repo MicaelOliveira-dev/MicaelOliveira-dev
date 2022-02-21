@@ -1,7 +1,8 @@
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, atualmente estou estudando para me tornar um profissional backend.
-- Apaixonado por Desafios ❤🤯
+Meu nome é Micael Oliveira, atualmente estou cursando Análise e desevolvimento de Sistemas e paralelamente estudando para me tornar um Fullstack Java Web.
+
+- Apaixonado por Desafios 
 - Autodidata
 - Comunicativo
 - Facilidade em Fazer novas Amizades
