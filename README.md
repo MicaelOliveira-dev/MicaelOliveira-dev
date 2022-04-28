@@ -1,6 +1,6 @@
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, atualmente estou cursando Análise e desevolvimento de Sistemas e paralelamente estudando para me tornar um Backend.
+Meu nome é Micael Oliveira, atualmente estou cursando Análise e desevolvimento de Sistemas e paralelamente estudando para me tornar um Frontend Developer.
 
 - Apaixonado por Desafios 
 - Autodidata
