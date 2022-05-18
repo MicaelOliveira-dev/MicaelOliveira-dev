@@ -1,6 +1,6 @@
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, atualmente estou cursando Design Gráfico e paralelamente estudando para me tornar um Frontend Developer e Design UI e UX.
+Meu nome é Micael Oliveira, atualmente estou estudando para me tornar um Frontend Developer e Design UI e UX.
 
 - Apaixonado por Desafios 
 - Autodidata
