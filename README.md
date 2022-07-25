@@ -1,12 +1,13 @@
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, atualmente estou estudando para me tornar um Frontend Developer e Design UI e UX.
+Meu nome é Micael Oliveira, atualmente estou fazendo faculdade de engenharia de software e estagiando na área.
 
 - Apaixonado por Desafios 
 - Autodidata
 - Comunicativo
 - Facilidade em Fazer novas Amizades
 - Apaixonado por Tecnologia
+-Amo resolver Desafio
 
 ### Onde me Encontrar 📌
 [![LinkedIn Badge](https://img.shields.io/badge/-MicaelOliveira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MicaelOliveira)](https://www.linkedin.com/in/micaeloliveira-ms)
