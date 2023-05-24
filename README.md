@@ -1,19 +1,19 @@
 ### Olá 🖐 Bem vindo ao meu perfil
 ## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, atualmente fazendo faculdade de engenharia de software e atualmete vivendo Devops.
+Eu sou Micael Oliveira, um Engenheiro DevOps apaixonado por tecnologia e por impulsionar o sucesso de projetos.
 
-- Linux
-- Docker
-- Terraform
-- Grafana
-- Ansible
-- Kubernetes
-- Prometheus
-- GitHub
-- Github Actions
+💻 Minhas competências incluem:
+
+- Administração de sistemas Linux
+- Orquestração e contêineres Docker
+- Infraestrutura como código com Terraform
+- Monitoramento com Grafana e Prometheus
+- Automação de tarefas com Ansible
+- Integração contínua (CI) e entrega contínua (CD)
+- Gerenciamento de projetos no GitHub
+- Fluxos de trabalho automatizados com GitHub Actions
 
 ### Onde me Encontrar 📌
 [![LinkedIn Badge](https://img.shields.io/badge/-MicaelOliveira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MicaelOliveira)](https://www.linkedin.com/in/micaeloliveira-ms)
-[![Instagram Badge](https://img.shields.io/badge/-@MicaelOlivera-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://www.instagram.com/MicaelOliveira)](https://www.instagram.com/micael37oliveira_/)
 
 
