@@ -4,7 +4,7 @@
     
      🔥 Data Science e Scapprer
   
-     📚 Estou cursando faculdade de Ciência de Dados e analise de comportamento e Analise e Desenvolvimento de Sistemas.
+     📚 Estou cursando faculdade de Analise e Desenvolvimento de Sistemas.
       
      👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, companherismo e carisma.
     
