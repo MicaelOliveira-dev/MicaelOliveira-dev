@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Micael+Oliveira;Data+Science;+:%29)](https://git.io/typing-svg)
 
-  <p>
-    
-     🔥 Data Science e Scapprer
-  
+  <p>  
      📚 Estou cursando faculdade de Analise e Desenvolvimento de Sistemas.
       
      👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, companherismo e carisma.
@@ -13,16 +10,11 @@
   <p>
     
       💻 Minhas competências incluem:
-      - Python
-      - MYSQL e SQL
-      - AirFlow
-      - Pandas
-      - FastAPI
-      - Power BI
-    
+      - C#
+      - Asp.NET
+      - SQL SERVER
+      - ReactJs    
   </p>
-
-## [💻 Veja Meu Portfolio Clicando aqui](https://micaeloliveiradev.com.br/)   
   
 ### Onde me Encontrar 📌
 [![LinkedIn Badge](https://img.shields.io/badge/-MicaelOliveira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MicaelOliveira)](https://www.linkedin.com/in/micaeloliveira-ms)
