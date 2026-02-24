@@ -1,29 +1,45 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Micael+Oliveira;+:%29)](https://git.io/typing-svg)
+<h1 align="center">👋 Olá, eu sou Micael Oliveira</h1>
 
-  <p>  
-     📚 Estou cursando faculdade de Analise e Desenvolvimento de Sistemas.
-      
-     👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, companherismo e carisma.
-    
-  </p>
+<p align="center">
+🚀 DevOps & Cloud Engineer <br>
+🔧 Foco em Automação, Infraestrutura como Código e Cloud AWS <br>
+🌎 Brasil
+</p>
 
-  <p>
-    
-      💻 Minhas competências incluem:
-      - C#
-      - Asp.NET
-      - SQL SERVER
-      - ReactJs    
-  </p>
-  
-### Onde me Encontrar 📌
-[![LinkedIn Badge](https://img.shields.io/badge/-MicaelOliveira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MicaelOliveira)](https://www.linkedin.com/in/micaeloliveira-ms)
+---
 
+## 🧠 Sobre mim
 
+Sou profissional de tecnologia com experiência em redes, desenvolvimento e infraestrutura.  
+Atualmente focado em me especializar em **DevOps e Cloud**, com forte base em Linux, automação e containers.
 
+Busco atuar como **DevOps / Cloud Engineer**, trabalhando com:
+- Provisionamento de infraestrutura
+- CI/CD
+- Containers e Kubernetes
+- Monitoramento
+- Ambientes escaláveis em nuvem
 
+---
 
+## ⚙️ Stack & Ferramentas
 
+### 💻 Infraestrutura & Cloud
+- Linux
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
 
+### 🖥️ Desenvolvimento
+- Node.js
+- React
+- C#
+- Python
 
+---
 
+## 📫 Onde me encontrar
+
+- [(Linkedin)](https://www.linkedin.com/in/micaeloliveira-ms/)
